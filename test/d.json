@@ -1,0 +1,28 @@
+{
+  'id': 15124413,
+  'hash_id': 'blaWVo',
+  'url': 'https://www.artstation.com/artwork/blaWVo',
+  'smaller_square_cover_url': 'https://cdnb.artstation.com/p/assets/covers/images/060/552/703/smaller_square/theo-jacquemin-theo-jacquemin-theojacquemin-mnw-thumbnail-cratebarrel01.jpg?1678817362',
+  'hide_as_adult': False,
+  'title': 'Stylized Crate & Barrel',
+  'icons': {
+    'video': false,
+    'image': true,
+    'model3d': false,
+    'marmoset': true,
+    'pano': false,
+    'multiple_images': true,
+    'video_clip': true
+  },
+  'user': {
+    'id': 1198932,
+    'username': 'theojacquemin',
+    'medium_avatar_url': 'https://cdna.artstation.com/p/users/avatars/001/198/932/medium/72b5d1a6c805d50c7cebf523ada896cd.jpg?1562164775',
+    'is_staff': false,
+    'pro_member': true,
+    'is_plus_member': false,
+    'is_studio_account': false,
+    'is_school_account': false,
+    'full_name': 'Théo Jacquemin'
+  }
+}
